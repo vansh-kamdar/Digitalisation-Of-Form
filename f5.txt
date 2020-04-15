@@ -1,0 +1,9 @@
+REGISTRATION FORM
+Name
+Email
+Number
+DOB
+Gender
+Address
+Short Bio
+Submit
